@@ -42,7 +42,7 @@ const DATA = {
           ]
         },
         {
-          title: "Freelance Network Technician",
+          title: "Freelance IT Technician",
           company: "Self-Employed",
           period: "Mar 2023 – Present",
           desc: "Providing IT infrastructure support for SMBs.",
@@ -150,7 +150,7 @@ const DATA = {
           ]
         },
         {
-          title: "Técnico de Redes Freelance",
+          title: "Técnico IT Freelance",
           company: "Independiente",
           period: "Mar 2023 – Presente",
           desc: "Soporte de infraestructura TI para PyMEs.",
